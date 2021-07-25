@@ -1,0 +1,23 @@
+{
+  "name": "my-first-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesbyel/my-first-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesbyel/my-first-mongodb/issues"
+  },
+  "homepage": "https://github.com/codesbyel/my-first-mongodb#readme",
+  "dependencies": {
+    "mongoose": "^5.12.15"
+  }
+}
