@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/codesbyel/my-first-mongodb#readme",
   "dependencies": {
+    "mocha": "^9.0.2",
     "mongoose": "^5.12.15"
   }
 }
